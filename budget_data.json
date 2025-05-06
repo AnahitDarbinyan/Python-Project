@@ -1,0 +1,19 @@
+{
+  "transactions": [
+    {
+      "type": "income",
+      "amount": 1000.0,
+      "date": "2025-05-01",
+      "description": "Job salary"
+    },
+    {
+      "type": "expense",
+      "amount": 200.0,
+      "date": "2025-05-05",
+      "description": "Food"
+    }
+  ],
+  "expense_limits": {
+    "2025-05": 500.0
+  }
+}
